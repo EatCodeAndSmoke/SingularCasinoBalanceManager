@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Common\Constants\**" />
+    <Compile Remove="Common\Delegates\**" />
+    <EmbeddedResource Remove="Common\Constants\**" />
+    <EmbeddedResource Remove="Common\Delegates\**" />
+    <None Remove="Common\Constants\**" />
+    <None Remove="Common\Delegates\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.0.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="9.0.1" />
+    <PackageReference Include="MediatR" Version="8.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CasinoBalanceManager.Core\CasinoBalanceManager.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BalanceManager">
+      <HintPath>..\BalanceManager.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

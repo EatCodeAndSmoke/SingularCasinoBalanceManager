@@ -1,0 +1,17 @@
+C:\Users\Tengo\source\repos\CasinoBalanceManager\CasinoBalanceManager.Core\bin\Debug\netstandard2.0\CasinoBalanceManager.Core.deps.json
+C:\Users\Tengo\source\repos\CasinoBalanceManager\CasinoBalanceManager.Core\bin\Debug\netstandard2.0\CasinoBalanceManager.Core.dll
+C:\Users\Tengo\source\repos\CasinoBalanceManager\CasinoBalanceManager.Core\bin\Debug\netstandard2.0\CasinoBalanceManager.Core.pdb
+C:\Users\Tengo\source\repos\CasinoBalanceManager\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.AssemblyInfoInputs.cache
+C:\Users\Tengo\source\repos\CasinoBalanceManager\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.AssemblyInfo.cs
+C:\Users\Tengo\source\repos\CasinoBalanceManager\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\Tengo\source\repos\CasinoBalanceManager\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.dll
+C:\Users\Tengo\source\repos\CasinoBalanceManager\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.pdb
+C:\Users\Tengo\Desktop\Singular\CasinoBalanceManager.Core\bin\Debug\netstandard2.0\CasinoBalanceManager.Core.deps.json
+C:\Users\Tengo\Desktop\Singular\CasinoBalanceManager.Core\bin\Debug\netstandard2.0\CasinoBalanceManager.Core.dll
+C:\Users\Tengo\Desktop\Singular\CasinoBalanceManager.Core\bin\Debug\netstandard2.0\CasinoBalanceManager.Core.pdb
+C:\Users\Tengo\Desktop\Singular\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.csprojAssemblyReference.cache
+C:\Users\Tengo\Desktop\Singular\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.AssemblyInfoInputs.cache
+C:\Users\Tengo\Desktop\Singular\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.AssemblyInfo.cs
+C:\Users\Tengo\Desktop\Singular\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\Tengo\Desktop\Singular\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.dll
+C:\Users\Tengo\Desktop\Singular\CasinoBalanceManager.Core\obj\Debug\netstandard2.0\CasinoBalanceManager.Core.pdb

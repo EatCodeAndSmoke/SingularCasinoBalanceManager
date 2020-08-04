@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zTSqQO28P6DYC+7q1hyNks3zQh6FmEZBbowA4pRkGCT/M8D6zfvscrplS2+Bey2g7ZpmnIhHP68Z5hjDgXaZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tengo\\Desktop\\Singular\\CasinoBalanceManager.Application\\CasinoBalanceManager.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tengo\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
+    "C:\\Users\\Tengo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.0.1\\fluentvalidation.dependencyinjectionextensions.9.0.1.nupkg.sha512",
+    "C:\\Users\\Tengo\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\Tengo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\Tengo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

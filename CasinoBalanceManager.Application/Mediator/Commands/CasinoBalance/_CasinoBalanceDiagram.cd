@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CasinoBalanceManager.Application.Models.BaseRequestModel">
+    <Position X="6.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BaseRequestModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CasinoBalanceManager.Application.Mediator.Commands.CasinoBalance.BaseBalanceCommand">
+    <Position X="6.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mediator\Commands\CasinoBalance\BaseBalanceCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CasinoBalanceManager.Application.Mediator.Commands.CasinoBalance.DepositCommand">
+    <Position X="3.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mediator\Commands\CasinoBalance\DepositCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CasinoBalanceManager.Application.Mediator.Commands.CasinoBalance.WithdrawCommand">
+    <Position X="8.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mediator\Commands\CasinoBalance\WithdrawCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CasinoBalanceManager.Application.Mediator.Commands.CasinoBalance.BaseBalanceCommandHandler&lt;TCommand&gt;">
+    <Position X="5.5" Y="7.5" Width="3" />
+    <Members>
+      <Field Name="_casinoBalanceManager" Hidden="true" />
+      <Field Name="_gameBalanceManager" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AgAAAIIAAAAAAAAAAAAAAAAQAAAIAAIAAAAAAEAAAIA=</HashCode>
+      <FileName>Mediator\Commands\CasinoBalance\BaseBalanceCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
